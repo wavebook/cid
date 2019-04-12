@@ -1,0 +1,19 @@
+{
+  "name": "cid",
+  "version": "1.0.0",
+  "description": "content identification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wavebook/cid.git"
+  },
+  "author": "@zfogg",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/wavebook/cid/issues"
+  },
+  "homepage": "https://github.com/wavebook/cid#readme"
+}
